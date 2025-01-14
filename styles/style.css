@@ -80,7 +80,6 @@ a {
   height: 757px;
   background-image: url(../images/cover.jpg);
   background-position: calc(50% - 2.5px) calc(50% + 0.5px);
-  background-size: cover;
   background-size: 1372px 758px;
 }
 .cover-container_cover {
@@ -149,6 +148,7 @@ a {
   flex-direction: column;
   gap: 120px;
   margin: 180px 24px;
+  list-style: none;
 }
 
 .section {
