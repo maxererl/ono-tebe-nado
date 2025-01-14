@@ -1,1 +1,1 @@
-https://github.com/maxererl/ono-tebe-nado
+https://github.com/maxererl/ono-tebe-nado-fd
